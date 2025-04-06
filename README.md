@@ -35,5 +35,5 @@ A comprehensive platform for analyzing and correlating ECG (electrocardiogram) a
 
 - Node.js (v18 or later)
 - Python (v3.8 or later)
-- pip (Python package manager)
+- pip (Python package manager)e
 

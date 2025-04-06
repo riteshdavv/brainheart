@@ -43,7 +43,7 @@ export default function CommunityPage() {
                   className="bg-[#FF5C35] text-white hover:bg-[#FF5C35]/90 transition-all"
                 >
                   <Link
-                    href="https://github.com/brainheart/repo"
+                    href="https://github.com/riteshdavv/brainheart"
                     target="_blank"
                     rel="noreferrer"
                   >

@@ -105,7 +105,7 @@ export function SiteHeader() {
               className="transition-all hover:border-[#FF5C35] hover:text-[#FF5C35] hover:bg-[#FF5C35]/10"
             >
               <Link
-                href="https://github.com/brainheart/repo"
+                href="https://github.com/riteshdavv/brainheart"
                 target="_blank"
                 rel="noreferrer"
               >
