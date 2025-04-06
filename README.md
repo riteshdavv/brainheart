@@ -37,7 +37,3 @@ A comprehensive platform for analyzing and correlating ECG (electrocardiogram) a
 - Python (v3.8 or later)
 - pip (Python package manager)
 
-### Installation
-
-1. Clone the repository:
-
